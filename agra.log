@@ -1,0 +1,54 @@
+[2026-09-18 22:36:34.284] [INFO] [T:17172] [Core] Starting AGRA v1.0.0...
+[2026-09-18 22:36:34.285] [WARN] [T:17172] [Config] Configuration file 'config.json' not found, using safe defaults.
+[2026-09-18 22:36:34.285] [INFO] [T:17172] [Core] Using default configuration.
+[2026-09-18 22:38:12.362] [INFO] [T:21048] [Core] Starting AGRA v1.0.0...
+[2026-09-18 22:38:12.364] [WARN] [T:21048] [Config] Configuration file 'config.json' not found, using safe defaults.
+[2026-09-18 22:38:12.364] [INFO] [T:21048] [Core] Using default configuration.
+[2026-09-18 22:38:51.671] [WARN] [T:10304] [Config] Configuration file 'config.json' not found, using safe defaults.
+[2026-09-18 22:38:51.672] [INFO] [T:10304] [Topology] CPU Topology Discovered: 6 Physical Cores, 12 Logical Cores (Hybrid: NO)
+[2026-09-18 22:39:17.508] [WARN] [T:13156] [Config] Configuration file 'config.json' not found, using safe defaults.
+[2026-09-18 22:41:00.280] [WARN] [T:14520] [Config] Configuration file 'config.json' not found, using safe defaults.
+[2026-09-18 22:41:24.180] [WARN] [T:8484] [Config] Configuration file 'config.json' not found, using safe defaults.
+[2026-09-18 23:15:19.940] [WARN] [T:9144] [Config] Configuration file 'config.json' not found, using safe defaults.
+[2026-09-18 23:15:19.941] [INFO] [T:9144] [Topology] CPU Topology Discovered: 6 Physical Cores, 12 Logical Cores (Hybrid: NO)
+[2026-09-21 21:02:57.333] [WARN] [T:16376] [Config] Configuration file 'config.json' not found, using safe defaults.
+[2026-09-21 21:02:57.335] [INFO] [T:16376] [Topology] CPU Topology Discovered: 6 Physical Cores, 12 Logical Cores (Hybrid: NO)
+[2026-09-21 21:03:03.882] [WARN] [T:14916] [Config] Configuration file 'config.json' not found, using safe defaults.
+[2026-09-21 21:03:03.883] [INFO] [T:14916] [WorkloadSimulator] === [SIMULATION] Starting Controlled Workload Simulation ===
+[2026-09-21 21:03:03.883] [INFO] [T:14916] [WorkloadSimulator] [SIMULATION] Entering Phase 1: Sustained Heavy Gameplay (A=85%)
+[2026-09-21 21:03:03.884] [INFO] [T:14916] [AllocationEngine] [PID 1001] Boost session started.
+[2026-09-21 21:03:03.884] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=78.5 | Urgency=Immediate | Confidence=0.92
+[2026-09-21 21:03:03.884] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=78.5 | Urgency=Immediate | Confidence=0.92
+[2026-09-21 21:03:03.884] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=78.5 | Urgency=Immediate | Confidence=0.92
+[2026-09-21 21:03:03.884] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=78.5 | Urgency=Immediate | Confidence=0.92
+[2026-09-21 21:03:03.884] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=78.5 | Urgency=Immediate | Confidence=0.92
+[2026-09-21 21:03:03.884] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=78.5 | Urgency=Immediate | Confidence=0.92
+[2026-09-21 21:03:03.884] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=78.5 | Urgency=Immediate | Confidence=0.92
+[2026-09-21 21:03:03.884] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=78.5 | Urgency=Immediate | Confidence=0.92
+[2026-09-21 21:03:03.884] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=78.5 | Urgency=Immediate | Confidence=0.92
+[2026-09-21 21:03:03.884] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=78.5 | Urgency=Immediate | Confidence=0.92
+[2026-09-21 21:03:03.885] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=78.5 | Urgency=Immediate | Confidence=0.92
+[2026-09-21 21:03:03.885] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=78.5 | Urgency=Immediate | Confidence=0.92
+[2026-09-21 21:03:03.885] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=78.5 | Urgency=Immediate | Confidence=0.92
+[2026-09-21 21:03:03.885] [INFO] [T:14916] [WorkloadSimulator] [SIMULATION] Entering Phase 2: Menu / Idle Transition (A=12%)
+[2026-09-21 21:03:03.885] [INFO] [T:14916] [WorkloadSimulator] [SIMULATION] Entering Phase 3: Background Contention Spike (Contention=0.60)
+[2026-09-21 21:03:03.885] [INFO] [T:14916] [WorkloadSimulator] [SIMULATION] Entering Phase 4: Resumed Heavy Gaming (A=92%)
+[2026-09-21 21:03:03.885] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=67.1 | Urgency=High | Confidence=0.84
+[2026-09-21 21:03:03.885] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=67.8 | Urgency=High | Confidence=0.84
+[2026-09-21 21:03:03.885] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=70.7 | Urgency=High | Confidence=0.92
+[2026-09-21 21:03:03.885] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=71.4 | Urgency=High | Confidence=0.92
+[2026-09-21 21:03:03.885] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=71.9 | Urgency=High | Confidence=0.92
+[2026-09-21 21:03:03.885] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=72.4 | Urgency=High | Confidence=0.92
+[2026-09-21 21:03:03.885] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=72.8 | Urgency=High | Confidence=0.92
+[2026-09-21 21:03:03.885] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=73.2 | Urgency=High | Confidence=0.92
+[2026-09-21 21:03:03.886] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=73.5 | Urgency=High | Confidence=0.92
+[2026-09-21 21:03:03.886] [INFO] [T:14916] [AllocationEngine] [PID 1001] Decision: AboveNormal | Score=73.7 | Urgency=High | Confidence=0.92
+[2026-09-21 21:03:03.886] [INFO] [T:14916] [WorkloadSimulator] [SIMULATION COMPLETE] Executed 57 steps across 4 phases. Observed 3 policy transitions. Validation status: PASSED
+[2026-09-21 21:03:03.888] [INFO] [T:14916] [ReportExporter] Successfully exported report to 'simulation_report.json'
+[2026-09-21 21:03:11.830] [WARN] [T:17716] [Config] Configuration file 'config.json' not found, using safe defaults.
+[2026-09-21 21:03:11.831] [INFO] [T:17716] [WindowsController] Capabilities initialized: Elevated=false, CPUSets=true, EcoQoS=true
+[2026-09-21 21:03:11.831] [INFO] [T:17716] [SafetyManager] Registered Windows ConsoleCtrlHandler for safe rollback.
+[2026-09-21 21:03:11.832] [INFO] [T:17716] [SessionManager] SessionManager initialized.
+[2026-09-21 21:03:11.832] [INFO] [T:17716] [BenchmarkRunner] === [SIMULATION] Starting Simulated Benchmark Suite ===
+[2026-09-21 21:03:11.832] [INFO] [T:17716] [BenchmarkRunner] [SIMULATED BENCHMARK COMPLETE] Compared 5 scheduling conditions. Contention decreased from 0.40 (Windows Default) to 0.08 (AGRA Adaptive + Background).
+[2026-09-21 21:03:11.833] [INFO] [T:17716] [ReportExporter] Successfully exported report to 'benchmark_report.json'
